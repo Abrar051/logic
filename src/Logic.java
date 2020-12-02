@@ -5,6 +5,5 @@ public class Logic {
         System.out.println("ayayay");
 
 
-        sdfa
     }
 }
