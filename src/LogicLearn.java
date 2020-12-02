@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class logic_learn {
+public class LogicLearn {
     public static void main (String args[])
     {
         Scanner input = new Scanner(System.in);
